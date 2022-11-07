@@ -1,0 +1,19 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace perintah_percetakan_karakter
+{
+    class Program
+    {
+        static void Main (string[] args)
+        {
+            Console.Write("cetak karakter tanpa pindah baris");
+            Console.WriteLine("cetak karakter dengan pindah baris");
+            Console.WriteLine("saya sudah dipindahkan barisnya");
+            Console.Read();
+            
+        }
+    }
+}
